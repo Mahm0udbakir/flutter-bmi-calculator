@@ -1,0 +1,13 @@
+# Flutter & Dart build files
+build/
+.dart_tool/
+.pub/
+.packages
+
+# IDE & System files
+.idea/
+.vscode/
+*.iml
+
+# Environment files
+.env
